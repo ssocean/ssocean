@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ssocean
-- 👀 I’m interested in Science
-- 🌱 I’m currently learning Computer Vision and Pattern Recognition
+- 👋 你好Hello, I’m @ssocean
+- 👀 Love Science
+- 🌱 Currently learning Computer Vision and Pattern Recognition
 - 📫 oceanytech@gmail.com
 
 <!---
