@@ -1,5 +1,4 @@
 - 👋 你好Hello, I’m @ssocean
-- 👀 Love Science
 - 🌱 Currently learning Computer Vision and Pattern Recognition
 - 📫 oceanytech@gmail.com
 
