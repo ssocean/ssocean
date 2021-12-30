@@ -1,5 +1,5 @@
-- 👋 你好Hello, I’m @ssocean
-- 🌱 Currently learning Computer Vision and Pattern Recognition
+- 👋 你好Hello, I’m @ssocean Penghai Zhao.
+- 🌱 Currently learning Computer Vision and Pattern Recognition.
 - 📫 oceanytech@gmail.com
 
 <!---
