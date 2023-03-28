@@ -4,14 +4,14 @@
 ![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/ssocean/ssocean"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/ssocean/ssocean/graphs/contributors"><img src="https://img.shields.io/github/contributors/ssocean/ssocean?color=blue"></a>
     <a href="https://github.com/ssocean/ssocean/stargazers"><img src="https://img.shields.io/github/stars/ssocean/ssocean.svg?logo=github"></a>
     <a href="https://github.com/ssocean/ssocean/network/members"><img src="https://img.shields.io/github/forks/ssocean/ssocean.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ssocean.ssocean" alt="visitors"/>   
-</p>
+</p> -->
 
 <!--   my-header-img -->
 ![](./src/header_.png)
@@ -20,15 +20,6 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Penghai+Zhao+@NKU;+Welcome+to+My+Profile!;Now,+I+'m+woking+on+Computer+Vision+Pattern+Recognition)](https://git.io/typing-svg)
 
-
-<!--   my-kaggle     
-### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
-
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
--->
 
 
 <!--   my-skils -->
