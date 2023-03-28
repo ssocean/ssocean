@@ -49,29 +49,12 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssocean"></img>
 
-
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ssocean&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
-
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/ssocean/ssocean/master/assets/twitter.svg" alt="ssocean" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/ssocean/ssocean/master/assets/linkedin.svg" alt="ssocean" height="30" width="30" /></a>
-<a href="mailto:andrej.marinchenko@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ssocean/ssocean/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+<a href="mailto:oceanytech@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ssocean/ssocean/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssocean" alt="ssocean" /></a>
-</p>
-
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
 
 <p align="center"> 
 
@@ -79,7 +62,6 @@
 width="30%">
 
 </p>
-
 
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
