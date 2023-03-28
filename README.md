@@ -55,25 +55,6 @@
 </p>
 
 
-
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</p>
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-<p align="center"> 
-
-<img src="./src/ibm_badges_credly.png" alt="ibm" width="100%">
-
-</p>
-
-
-
 #### Thanks for visiting :heart:
 
 <p align="center"> 
@@ -83,17 +64,6 @@ counting of visitors to this page in this section started from May 8, 2022
 <a href="https://info.flagcounter.com/7gPS"><img src="https://s11.flagcounter.com/map/7gPS/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ssocean/ssocean&type=Date)](https://star-history.com/#ssocean/ssocean&Date)
-
-
-
-### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@ssocean.github.readme)
-</br>
 
 [MIT](LICENSE)
 
@@ -101,17 +71,11 @@ counting of visitors to this page in this section started from June 12, 2022
 </p>
 
 ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
-Would you ike to meet me?
-
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-
----
-  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
+  *If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me.⭐* 
 ---
 
 ![](assets/Bottom_down.svg)
+
 <!---
 ssocean/ssocean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
