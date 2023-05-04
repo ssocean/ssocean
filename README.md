@@ -62,7 +62,7 @@ Counting of visitors to this page in this section started from March 21, 2023
 </p>
 
 ---
-  *If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me.⭐* 
+  *If you want to contribute to any of my repositories, feel free to submit PRs, issues or jsut email me.⭐* 
 ---
 
 ![](assets/Bottom_down.svg)
