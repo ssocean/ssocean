@@ -1,7 +1,7 @@
 - 👋 你好Hello, I’m @ssocean, Penghai Zhao, 赵鹏海.
 - 🌱 Currently learning Computer Vision and Pattern Recognition.
 - 📫 oceanytech@gmail.com
-![](assets/Bottom_up.svg)
+<!-- ![](assets/Bottom_up.svg) -->
 
 <!--   my-icons -->
 <!-- <p align="center">
@@ -32,17 +32,17 @@
 | **Preferred Deep Learning frameworks** | ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![ssocean's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ssocean&theme=github-compact)](https://github.com/ssocean/github-readme-activity-graph)
+<!-- [![ssocean's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ssocean&theme=github-compact)](https://github.com/ssocean/github-readme-activity-graph) -->
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![ssocean's github stats](https://github-readme-stats.vercel.app/api?username=ssocean&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ssocean&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ssocean"></img>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssocean"></img> -->
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="mailto:oceanytech@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ssocean/ssocean/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="mailto:oceanytech@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ssocean/ssocean/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a> : oceanytech@gmail.com
 </p>
 
 
@@ -56,7 +56,7 @@ Counting of visitors to this page in this section started from March 21, 2023
 
 
 
-[MIT](LICENSE)
+<!-- [MIT](LICENSE) -->
 
 
 </p>
