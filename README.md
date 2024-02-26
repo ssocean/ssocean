@@ -25,7 +25,7 @@
 ### 📈 GitHub Activity Graph:
 <!-- [![ssocean's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ssocean&theme=github-compact)](https://github.com/ssocean/github-readme-activity-graph) -->
 
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+
 | ![ssocean's github stats](https://github-readme-stats.vercel.app/api?username=ssocean&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ssocean&theme=radical&layout=compact) |
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssocean"></img> -->
